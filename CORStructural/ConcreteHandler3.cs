@@ -1,6 +1,9 @@
 ﻿using System;
 
 namespace CORStructural {
+    /// <summary>
+    /// The 'ConcreteHandler' class
+    /// </summary>
     class ConcreteHandler3:Handler {
         public override void HandleRequest(Int32 request) {
             if(request>=20&&request<30)

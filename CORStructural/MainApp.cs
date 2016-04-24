@@ -1,6 +1,9 @@
 ﻿using System;
 
 namespace CORStructural {
+    /// <summary>
+    /// MainApp entry point.
+    /// </summary>
     class MainApp {
         static void Main() {
             //Setup Chain of Responsibility
